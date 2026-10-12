@@ -1,0 +1,4 @@
+IP ADDRESS,Malicious Flags,Clean Flags,Verdict
+8.8.8.8,0,53,CLEAN
+1.1.1.1,0,56,CLEAN
+185.153.196.113,0,0,CLEAN
